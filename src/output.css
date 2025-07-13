@@ -453,7 +453,7 @@
     background-color: var(--color-white);
   }
   .bg-\[url\(\/src\/img\/home-tour\.jpg\)\] {
-    background-image: url(/src/img/home-tour.jpg);
+    background-image: url(/img/home-tour.jpg);
   }
   .bg-cover {
     background-size: cover;
